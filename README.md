@@ -1,10 +1,14 @@
 # SCML Fall 2017 Competition
 
+## BE SURE We get your submission
+
+*Send an email to sito@ucsc.edu to make sure your submission will be judged!!!*
+
 ## Can machines learn how the mouse sees?
 
 > The [Santa Cruz Machine Learning Cooperative Cooperative](https://github.com/santacruzml/coop) would like to announce the following challenge, open to the public, to help us push forward our understanding of how visual information is processed in mammals and whether machines can replicate it. This is in collaboration with [SCIPP](http://scipp.ucsc.edu/) (the Santa Cruz Institute for Particle Physics), which develops a device that records from many neurons simultaneously from a live mouse.
 
-* The competition begins on October 5th, 2017 and will end November 23rd, 2017 at 11:59PM!
+* The competition begins on October 5th, 2017 and will end November 26th, 2017 at 11:59PM!
 
 * [Fork this repo](https://github.com/santacruzml/fall-17-scml-competition#fork-destination-box) and open the notebook to get started!
 
@@ -66,7 +70,7 @@ Entries will be judged on their ability to work with an unseen dataset. Any trai
 
 ### How to Enter
 
-To enter a response simply fork this repository to your own github account. Anyone with a github account may submit a response. The tip of the `master` branch November 23, 11:59 PM will be considered your entry. Please make it clear within your code how to direct the model to make predictions from new output data, which will be used by judges to test the precision and recall of your entry.
+To enter a response simply fork this repository to your own github account. Anyone with a github account may submit a response. The tip of the `master` branch November 26, 11:59 PM will be considered your entry. Please make it clear within your code how to direct the model to make predictions from new output data, which will be used by judges to test the precision and recall of your entry.
 
 To fork the repository to your own account, start by clicking the fork icon on github.
 
@@ -79,15 +83,15 @@ Then use `git clone https://github.com/YOURACCOUNT/fall-17-scml-competition` to 
 
 ### Important dates!
 
-No responses will be accepted after November 23, 11:59 pm. Only commits made before this time will be judged.
+No responses will be accepted after November 26, 11:59 pm. Only commits made before this time will be judged.
 
-All entrants will be contacted that their response is under review by November 24, 11:59 pm.
+All entrants will be contacted that their response is under review by November 29, 11:59 pm.
 
-A list of awards will be given on November 30 at the SCML meeting.
+A list of awards will be given on December 6th at the SCML meeting!
 
 ### Get help!
 
-Please join us for the student meetings to get help on formulating an entry! On the November 23rd meeting of the group entrants will have an opportunity to discuss their competition entry and any challenges in submitting.
+Please join us for the student meetings to get help on formulating an entry! On the November 22nd meeting of the group entrants will have an opportunity to discuss their competition entry and any challenges in submitting.
 
 You can also post your questions to the [github issues](https://github.com/santacruzml/fall-17-scml-competition/issues) or [mailing list](https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!forum/thesmc)!
 
